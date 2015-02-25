@@ -27,7 +27,7 @@ Just like this:
 application.js:
 
 ```
-//= require Autolinker
+//= require Autolinker.min
 ```
 
 ## Contributing
